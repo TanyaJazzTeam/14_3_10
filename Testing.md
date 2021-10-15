@@ -1,14 +1,29 @@
-# Des exercices
+---
+layout: post
+title: Web Vitals
+description: Essential metrics for a healthy site
+hero: image/admin/BHaoqqR73jDWe6FL2kfw.png
+authors:
+  - philipwalton
+date: 2020-04-30
+updated: 2020-07-21
+tags:
+  - metrics
+  - performance
+  - web-vitals
+---
 
-## Exercices 1
+# Quotes
 
-1. Quel âge as-tu?
-2. Où est ta nouvelle voiture ? - Là-bas.
+## Quotes 1
 
-## Exercices 2
-- Quel âge ont-ils?
-- Quel âge as-tu?
-- ljljlkjlklkj
+1. Life is far too important a thing ever to talk seriously about
+2. Our life is what our thoughts make it.
+
+## Quotes 2
+- Keep smiling, because life is a beautiful thing and there's so much to smile about
+- Life is a series of choices.
+- Love is a friendship set to music.
 
 # Devis
 
