@@ -7,7 +7,7 @@ authors:
   - philipwalton
 date: 2020-04-30
 updated: 2020-07-21
-tags:
+tags
   - metrics
   - performance
   - web-vitals
