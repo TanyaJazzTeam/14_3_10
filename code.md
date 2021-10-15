@@ -38,6 +38,8 @@ Here are some questions to keep in mind during the code review process:
 *   *Is the code efficient?* Could it be rewritten easily to run more efficiently?
 *   Is the code *backwards compatible* with previous versions of TensorFlow?
 *   Will the new code add *new dependencies* on other libraries?
+*   000000000
+*   1111111
 
 ## Test and improve test coverage
 
